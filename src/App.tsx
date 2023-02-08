@@ -5,7 +5,25 @@ import { Header } from './components/Header'
 import { Post } from './components/Post'
 import { Sidebar } from './components/Sidebar'
 
-const posts = [
+export interface Content {
+	type: 'paragraph' | 'link'
+	content: string
+}
+
+export interface Author {
+	avatarUrl: string
+	name: string
+	role: string
+}
+
+interface Post {
+	id: number
+	author: Author
+	content: Content[]
+	publishedAt: Date
+}
+
+const posts: Post[] = [
 	{
 		id: 1,
 		author: {
