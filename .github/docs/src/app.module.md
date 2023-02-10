@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD010 -->
 
-# Estilos do App
+# Arquivo `App.module.css`
 
 > Voltar para o [`index`](../index.md).
 

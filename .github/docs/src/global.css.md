@@ -1,4 +1,4 @@
-# Estilos Globais
+# Arquivo `Global.css`
 
 > Voltar para o [`index`](../index.md).
 

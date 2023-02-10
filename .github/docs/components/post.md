@@ -1,4 +1,4 @@
-# Componente Post
+# Componente `Post.tsx`
 
 > Voltar para o [`index`](../index.md).
 

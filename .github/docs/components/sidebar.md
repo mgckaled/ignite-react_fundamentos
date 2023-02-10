@@ -1,8 +1,6 @@
-# Componente Sidebar
+# Componente `Sidebar.tsx`
 
 > Voltar para o [`index`](../index.md).
-
-## Código
 
 ## Estilos
 

@@ -1,4 +1,4 @@
-# Componente Comment
+# Componente `Comment.tsx`
 
 > Voltar para o [`index`](../index.md).
 
@@ -7,6 +7,7 @@
 - `<span></span>` - tag utilizada para facilitar a separação do ícone do número com um ponto.
 - `const [likeCount, setLikeCount] = useState(0)` criar-se uma estado para controlar a quantidade de "likes". É importante iniciar o estado "(0)" com o mesmo tipo de dado.
 - `handleLikeComment() {setLikeCount(state => {return state + 1})}` - essa função aumenta o número de likes em +1 a cada clique no ícone. Para atualizar o valor de likes é o utilizado o `state` que representa o valor anterior de likes.
+- `interface CommentProps {content: string onDeleteComment: (comment: string) => void}` -
 
 ## Estilos
 

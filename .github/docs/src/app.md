@@ -1,4 +1,4 @@
-# App
+# Arquivo `App.tsx`
 
 > Voltar para o [`index`](../index.md).
 

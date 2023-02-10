@@ -13,17 +13,16 @@
 
 ## `src/`
 
-- [app](./src/app.md)
-- [app.module](./src/app.module.md)
-- [globa.css](./src/global.css.md)
-- [main](./src/main.md)
+- [`App.tsx`](./src/app.md)
+- [`App.module.css`](./src/app.module.md)
+- [`Global.css`](./src/global.css.md)
+- [`main.tsx`](./src/main.md)
 
 ## `src/components`
 
-- [Avatar](./components/avatar.md)
-- [Comment](./components/comment.md)
-- [Header](./components/header.md)
-- [Post](./components/post.md)
-- [SideBar](./components/sidebar.md)
+- [`Avatar.tsx`](./components/avatar.md)
+- [`Comment.tsx`](./components/comment.md)
+- [`Post.tsx`](./components/post.md)
+- [`SideBar.tsx`](./components/sidebar.md)
 
 > ir para o [`README`](../../README.md)
